@@ -16,15 +16,18 @@ def _sort(data, start, end, pivotfn):
     (end - start + 1).
     """
     # each recursive all contributes len - 1 comparisons. len - 1 = end - start - 1 + 1 = end - start
-    comps = end - start
     if end - start == 1:
         if data[start] > data[end]:
             _swap(data, start, end)
+        return 1
     elif end - start > 1:
+        comps = end - start
         partition = _partition(data, start, end, pivotfn)
         comps += _sort(data, start, partition - 1, pivotfn)
         comps += _sort(data, partition + 1, end, pivotfn)
-    return comps
+        return comps
+    else:
+        return 0
 
 
 def _partition(data, start, end, pivotfn):
@@ -63,18 +66,24 @@ def median_3_pivot(data, start, end):
     mid = (end - start) / 2 + start
     ds, dm, de = data[start], data[mid], data[end]
     if ds < dm:
-        if dm < de:
+        # [ds, dm]
+        if ds > de:
+            return start
+        elif dm < de:
             return mid
         else:
             return end
     else:
+        # [dm, ds]
         if ds < de:
             return start
+        elif de < dm:
+            return mid
         else:
             return end
 
 
 if __name__ == '__main__':
     s = [i for i in reversed(range(10))]
-    quick_sort(s)
+    quick_sort(s, median_3_pivot)
     print(s)
