@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bc99feb-4c4e-4106-a4b7-e1c27ad53671" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/two/assignment_two.py" afterPath="$PROJECT_DIR$/assignments/two/assignment_two.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/tests/all.py" afterPath="$PROJECT_DIR$/assignments/tests/all.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/four/assignment_four.py" afterPath="$PROJECT_DIR$/assignments/four/assignment_four.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/tests/assignment_four.py" afterPath="$PROJECT_DIR$/assignments/tests/assignment_four.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/three/assignment_three.py" afterPath="$PROJECT_DIR$/assignments/three/assignment_three.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assignments/tests/assignment_two.py" afterPath="$PROJECT_DIR$/assignments/tests/assignment_two.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="stanford-algorithms-1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,23 +19,35 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_assignment_two.coverage" NAME="Unittests in assignment_two Coverage Results" MODIFIED="1400646949622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
     <SUITE FILE_PATH="coverage/stanford-algorithms-1$assignment_1.coverage" NAME="assignment_1 Coverage Results" MODIFIED="1399606829938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/1" />
-    <SUITE FILE_PATH="coverage/stanford-algorithms-1$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1399244018400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
     <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_MergeSortTest.coverage" NAME="Unittests in MergeSortTest Coverage Results" MODIFIED="1399240220345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/merge_sort" />
-    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_strassens_matrix.coverage" NAME="Unittests in strassens_matrix Coverage Results" MODIFIED="1399754645209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/tests" />
-    <SUITE FILE_PATH="coverage/stanford-algorithms-1$assignment_two.coverage" NAME="assignment_two Coverage Results" MODIFIED="1400646891724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/two" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$assignment_three.coverage" NAME="assignment_three Coverage Results" MODIFIED="1401636094572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/three" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittest_AssignmentFourTest_test_disconnected.coverage" NAME="Unittest AssignmentFourTest.test_disconnected Coverage Results" MODIFIED="1402263885517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
     <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittest_AssignmentTwoTest_test_reverse_lst.coverage" NAME="Unittest AssignmentTwoTest.test_reverse_lst Coverage Results" MODIFIED="1400546075728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
-    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_MergeSortTest__1_.coverage" NAME="Unittests in MergeSortTest Coverage Results" MODIFIED="1399241425967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/tests" />
-    <SUITE FILE_PATH="coverage/stanford-algorithms-1$all.coverage" NAME="all Coverage Results" MODIFIED="1399348852067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$assignment_four.coverage" NAME="assignment_four Coverage Results" MODIFIED="1402264627281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/four" />
     <SUITE FILE_PATH="coverage/stanford-algorithms-1$tests.coverage" NAME="tests Coverage Results" MODIFIED="1399241376058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/tests" />
-    <SUITE FILE_PATH="coverage/stanford-algorithms-1$all__1_.coverage" NAME="all (1) Coverage Results" MODIFIED="1399695874656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
     <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_AssignmentTwoTest.coverage" NAME="Unittests in AssignmentTwoTest Coverage Results" MODIFIED="1400645198992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
-    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittest_MergeSortTest_test_sort.coverage" NAME="Unittest MergeSortTest.test_sort Coverage Results" MODIFIED="1399240049896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/merge_sort" />
-    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_merge_sort_test.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1399241311732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/merge_sort" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittest_AssignmentFourTest_test_kasaraju_eg_from_class.coverage" NAME="Unittest AssignmentFourTest.test_kasaraju_eg_from_class Coverage Results" MODIFIED="1402262877170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
     <SUITE FILE_PATH="coverage/stanford-algorithms-1$assignment_one.coverage" NAME="assignment_one Coverage Results" MODIFIED="1399695987383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/one" />
     <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittest_MergeSortTest_test_huh.coverage" NAME="Unittest MergeSortTest.test_huh Coverage Results" MODIFIED="1399239851597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/merge_sort" />
     <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_tests__1_.coverage" NAME="Unittests in tests (1) Coverage Results" MODIFIED="1399241399061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_assignment_two.coverage" NAME="Unittests in assignment_two Coverage Results" MODIFIED="1400646949622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_assignment_four.coverage" NAME="Unittests in assignment_four Coverage Results" MODIFIED="1402264207037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1399244018400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_assignment_four__1_.coverage" NAME="Unittests in assignment_four (1) Coverage Results" MODIFIED="1402263365079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$robot.coverage" NAME="robot Coverage Results" MODIFIED="1401042040092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems/recursion" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_strassens_matrix.coverage" NAME="Unittests in strassens_matrix Coverage Results" MODIFIED="1399754645209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$counting_steps.coverage" NAME="counting_steps Coverage Results" MODIFIED="1401040936641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems/recursion" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$assignment_two.coverage" NAME="assignment_two Coverage Results" MODIFIED="1400646891724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/two" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$all.coverage" NAME="all Coverage Results" MODIFIED="1402264295756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_MergeSortTest__1_.coverage" NAME="Unittests in MergeSortTest Coverage Results" MODIFIED="1399241425967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$all__1_.coverage" NAME="all (1) Coverage Results" MODIFIED="1399695874656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_AssignmentFourTest__1_.coverage" NAME="Unittests in AssignmentFourTest (1) Coverage Results" MODIFIED="1402255198385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_AssignmentFourTest.coverage" NAME="Unittests in AssignmentFourTest Coverage Results" MODIFIED="1402264194089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittest_MergeSortTest_test_sort.coverage" NAME="Unittest MergeSortTest.test_sort Coverage Results" MODIFIED="1399240049896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/merge_sort" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittest_AssignmentFourTest_test_cycle.coverage" NAME="Unittest AssignmentFourTest.test_cycle Coverage Results" MODIFIED="1402264202702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittests_in_merge_sort_test.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1399241311732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithms/merge_sort" />
+    <SUITE FILE_PATH="coverage/stanford-algorithms-1$Unittest_AssignmentFourTest_test_eg_from_class.coverage" NAME="Unittest AssignmentFourTest.test_eg_from_class Coverage Results" MODIFIED="1402254473182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/tests" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -44,22 +61,106 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="assignment_two.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignments/two/assignment_two.py">
+      <file leaf-file-name="counting_steps.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/recursion/counting_steps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="0" selection-start="1682" selection-end="1682" vertical-scroll-proportion="0.0" vertical-offset="975" max-vertical-offset="1425">
+            <state line="7" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="495">
+              <folding>
+                <marker date="1401040478000" expanded="true" signature="21:198" placeholder="&quot;&quot;&quot;A child is running up a staircase with n steps and can hop 1,2, or 3 steps at a time....&quot;&quot;&quot;" />
+                <marker date="1401040478000" expanded="true" signature="224:550" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment_two.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_two.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+              <folding>
+                <element signature="e#20#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/problems/recursion/robot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="22" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="525">
+              <folding>
+                <marker date="1401042010000" expanded="true" signature="21:410" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1401042010000" expanded="true" signature="577:710" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="merge_sort.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algorithms/merge_sort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="8" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assignment_two.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_two.py">
+      <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignments/three/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="8" selection-start="351" selection-end="351" vertical-scroll-proportion="0.56" vertical-offset="0" max-vertical-offset="510">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment_three.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignments/three/assignment_three.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="24" selection-start="883" selection-end="883" vertical-scroll-proportion="0.0" vertical-offset="337" max-vertical-offset="1275">
               <folding>
-                <element signature="e#20#35#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment_four.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignments/four/assignment_four.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="0" selection-start="2041" selection-end="2041" vertical-scroll-proportion="1.8631579" vertical-offset="0" max-vertical-offset="1365">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assignment_four.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_four.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="11" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+              <folding>
+                <element signature="e#22#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="all.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assignments/tests/all.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="35" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <folding>
+                <element signature="e#21#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils/data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="32" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="630">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,7 +193,6 @@
         <option value="$PROJECT_DIR$/assignments/1/assignment_1.py" />
         <option value="$PROJECT_DIR$/assignments/tests/assignment_1.py" />
         <option value="$PROJECT_DIR$/algorithms/tests/all.py" />
-        <option value="$PROJECT_DIR$/assignments/tests/all.py" />
         <option value="$PROJECT_DIR$/assignments/tests/assignment_one.py" />
         <option value="$PROJECT_DIR$/algorithms/merge_sort.py" />
         <option value="$PROJECT_DIR$/assignments/one/assignment_one.py" />
@@ -102,14 +202,21 @@
         <option value="$PROJECT_DIR$/algorithms/tests/strassens_matrix.py" />
         <option value="$PROJECT_DIR$/assignments/two/readme.txt" />
         <option value="$PROJECT_DIR$/assignments/two/assignment_two.py" />
+        <option value="$PROJECT_DIR$/problems/recursion/counting_steps.py" />
+        <option value="$PROJECT_DIR$/problems/recursion/robot.py" />
+        <option value="$PROJECT_DIR$/assignments/three/__init__.py" />
+        <option value="$PROJECT_DIR$/assignments/three/assignment_three.py" />
+        <option value="$PROJECT_DIR$/assignments/tests/assignment_four.py" />
+        <option value="$PROJECT_DIR$/assignments/tests/all.py" />
         <option value="$PROJECT_DIR$/assignments/tests/assignment_two.py" />
+        <option value="$PROJECT_DIR$/assignments/four/assignment_four.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="814" />
+    <option name="width" value="1920" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -137,7 +244,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -180,7 +286,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assignments" />
+              <option name="myItemId" value="problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanford-algorithms-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanford-algorithms-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="problems" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="recursion" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -195,10 +319,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assignments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="two" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,8 +340,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanford-algorithms-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanford-algorithms-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="one" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanford-algorithms-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanford-algorithms-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assignments" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="four" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanford-algorithms-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanford-algorithms-1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algorithms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,33 +423,8 @@
       <recent name="$PROJECT_DIR$/assignments/1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in assignment_two">
-    <configuration default="false" name="Unittests in strassens_matrix" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithms/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="stanford-algorithms-1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithms/tests/strassens_matrix.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests in assignment_two" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.assignment_four">
+    <configuration default="false" name="Unittests in assignment_four" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -289,7 +435,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="stanford-algorithms-1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/tests/assignment_two.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/tests/assignment_four.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -299,30 +445,13 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="assignment_two" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/two" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="stanford-algorithms-1" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/two/assignment_two.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest AssignmentTwoTest.test_reverse_lst" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Unittests in AssignmentFourTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
@@ -333,9 +462,34 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="stanford-algorithms-1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/tests/assignment_two.py" />
-      <option name="CLASS_NAME" value="AssignmentTwoTest" />
-      <option name="METHOD_NAME" value="test_reverse_lst" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/tests/assignment_four.py" />
+      <option name="CLASS_NAME" value="AssignmentFourTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest AssignmentFourTest.test_cycle" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stanford-algorithms-1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/tests/assignment_four.py" />
+      <option name="CLASS_NAME" value="AssignmentFourTest" />
+      <option name="METHOD_NAME" value="test_cycle" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -347,10 +501,12 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in AssignmentTwoTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="all" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/tests" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -358,16 +514,27 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="stanford-algorithms-1" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/tests/assignment_two.py" />
-      <option name="CLASS_NAME" value="AssignmentTwoTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_CLASS" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/tests/all.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="assignment_four" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/four" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stanford-algorithms-1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/four/assignment_four.py" />
+      <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
@@ -523,19 +690,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in strassens_matrix" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in assignment_two" />
-      <item index="2" class="java.lang.String" itemvalue="Python.assignment_two" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest AssignmentTwoTest.test_reverse_lst" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in AssignmentTwoTest" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in assignment_four" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in AssignmentFourTest" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest AssignmentFourTest.test_cycle" />
+      <item index="3" class="java.lang.String" itemvalue="Python.all" />
+      <item index="4" class="java.lang.String" itemvalue="Python.assignment_four" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in assignment_two" />
-        <item index="1" class="java.lang.String" itemvalue="Python.assignment_two" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in AssignmentTwoTest" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest AssignmentTwoTest.test_reverse_lst" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in strassens_matrix" />
+        <item index="0" class="java.lang.String" itemvalue="Python.assignment_four" />
+        <item index="1" class="java.lang.String" itemvalue="Python.all" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in assignment_four" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest AssignmentFourTest.test_cycle" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in AssignmentFourTest" />
       </list>
     </recent_temporary>
   </component>
@@ -566,27 +733,28 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="814" extended-state="6" />
+    <frame x="0" y="22" width="1920" height="878" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25894135" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991131" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1943557" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39855072" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44182825" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3307888" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -604,57 +772,58 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/assignments/four/assignment_four.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/assignments/tests/assignment_four.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="24" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/one/assignment_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="39" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="810">
-          <folding />
-        </state>
+        <state line="36" column="39" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/strassens_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="5" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="2145">
-          <folding />
-        </state>
+        <state line="132" column="5" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="2145" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/strassens_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="62" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="795">
-          <folding />
-        </state>
+        <state line="12" column="62" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="795" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="630">
-          <folding />
-        </state>
+        <state line="34" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/two/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/two/assignment_two.py">
@@ -667,17 +836,13 @@
     <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_two.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="11" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="345">
-          <folding>
-            <element signature="e#20#35#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/assertions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/merge_sort.py">
@@ -687,51 +852,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="24" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/one/assignment_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="39" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="810">
-          <folding />
-        </state>
+        <state line="36" column="39" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/strassens_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="5" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="2145">
-          <folding />
-        </state>
+        <state line="132" column="5" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="2145" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/strassens_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="62" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="795">
-          <folding />
-        </state>
+        <state line="12" column="62" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="795" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="630">
-          <folding />
-        </state>
+        <state line="34" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/assertions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/merge_sort.py">
@@ -741,51 +892,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="24" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="585" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/one/assignment_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="39" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="810">
-          <folding />
-        </state>
+        <state line="36" column="39" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/strassens_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="5" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="2145">
-          <folding />
-        </state>
+        <state line="132" column="5" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="2145" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/strassens_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="795">
-          <folding />
-        </state>
+        <state line="17" column="0" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="795" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="630">
-          <folding />
-        </state>
+        <state line="34" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/assertions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/utils/__init__.py">
@@ -795,14 +932,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithms/merge_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="8" selection-start="703" selection-end="703" vertical-scroll-proportion="0.9574468" vertical-offset="135" max-vertical-offset="600" />
+        <state line="2" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/merge_sort.py">
@@ -810,65 +940,34 @@
         <state line="7" column="1" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/tests/all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/utils/assertions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.48" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="12" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.48" vertical-offset="0" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/one/assignment_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="39" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="59" selection-start="748" selection-end="748" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_one.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
+        <state line="36" column="39" selection-start="1025" selection-end="1025" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="810" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/tests/strassens_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="62" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
-          <folding />
-        </state>
+        <state line="12" column="62" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/strassens_matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="5" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="2145">
-          <folding />
-        </state>
+        <state line="132" column="5" selection-start="3458" selection-end="3458" vertical-scroll-proportion="0.0" vertical-offset="1590" max-vertical-offset="2145" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_two.input">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150090">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150090" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/two/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="3158" selection-end="3158" vertical-scroll-proportion="-6.0" vertical-offset="513" max-vertical-offset="870">
-          <folding />
-        </state>
+        <state line="45" column="0" selection-start="3158" selection-end="3158" vertical-scroll-proportion="-6.0" vertical-offset="513" max-vertical-offset="870" />
       </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -876,16 +975,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/two/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="671">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="671" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.04" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="1" column="0" selection-start="22" selection-end="22" vertical-scroll-proportion="0.04" vertical-offset="0" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/two/assignment_two.py">
@@ -895,12 +990,108 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problems/recursion/counting_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+          <folding>
+            <marker date="1401040478000" expanded="true" signature="21:198" placeholder="&quot;&quot;&quot;A child is running up a staircase with n steps and can hop 1,2, or 3 steps at a time....&quot;&quot;&quot;" />
+            <marker date="1401040478000" expanded="true" signature="224:550" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problems/recursion/robot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="22" selection-start="819" selection-end="819" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding>
+            <marker date="1401042010000" expanded="true" signature="21:410" placeholder="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1401042010000" expanded="true" signature="577:710" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algorithms/merge_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="8" selection-start="703" selection-end="703" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/three/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="938">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="32" selection-start="721" selection-end="721" vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="330" column="0" selection-start="10953" selection-end="10953" vertical-scroll-proportion="0.33273056" vertical-offset="4571" max-vertical-offset="16035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/three/assignment_three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="24" selection-start="883" selection-end="883" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="1275">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/unittest/suite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="6" selection-start="2058" selection-end="2058" vertical-scroll-proportion="0.33333334" vertical-offset="884" max-vertical-offset="4590">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_two.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="351" selection-end="351" vertical-scroll-proportion="0.56" vertical-offset="0" max-vertical-offset="510">
+        <state line="6" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
           <folding>
             <element signature="e#20#35#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/tests/all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="35" selection-start="274" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding>
+            <element signature="e#21#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/tests/assignment_four.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="11" selection-start="96" selection-end="96" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1080">
+          <folding>
+            <element signature="e#22#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/four/assignment_four.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="2041" selection-end="2041" vertical-scroll-proportion="1.8631579" vertical-offset="0" max-vertical-offset="1365">
+          <folding />
         </state>
       </provider>
     </entry>

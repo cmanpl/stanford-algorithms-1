@@ -4,6 +4,9 @@ from assignments import two
 from assignments.two import assignment_two
 from utils import data
 
+def suite():
+    return unittest.TestLoader().loadTestsFromTestCase(AssignmentTwoTest)
+
 
 class AssignmentTwoTest(unittest.TestCase):
 
